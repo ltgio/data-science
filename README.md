@@ -1,6 +1,2 @@
-# data-science-core
+# data-science repo
 
-|_dataset
-|_deep-learning
-|_dimensionality-reduction
-|_eda
